@@ -143,3 +143,17 @@ The residuals and pressure-drop monitor indicate that the solution
 reached a stable state.
 
 The pressure drop along the pipe is approximately 1 kPa.
+
+## Results Visualization
+
+### Residuals
+
+![Residuals](residuals.png)
+
+### Pressure Drop
+
+![pressure drop](pressure_drop.png)
+
+### Velocity Contour
+
+![velocity Contour](velocity_contour.png)
