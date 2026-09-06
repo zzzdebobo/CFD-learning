@@ -152,7 +152,7 @@ The pressure drop along the pipe is approximately 1 kPa.
 
 ### Pressure Drop
 
-![Pressure Drop](./pressure_drop.png)
+![Pressure Drop](./presure_drop.png)
 
 ### Velocity Contour
 
