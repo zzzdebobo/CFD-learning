@@ -123,29 +123,6 @@ and decreases toward the wall.
 
 ### Pressure Drop
 
-The pressure-drop monitor gradually reaches a stable value.
-
-The calculated pressure drop ΔP is approximately 1 kPa.
-
-## Conclusion
-
-The CFD simulation successfully reproduced the internal flow
-in a circular pipe.
-
-The velocity distribution shows the expected behavior of pipe flow,
-with lower velocity near the wall and higher velocity in the
-central region.
-
-The residuals and pressure-drop monitor indicate that the solution
-reached a stable state.
-
-The pressure drop along the pipe is approximately 1 kPa.
-
-ZB: 09-06 15:56:20
-## Results
-
-### Pressure Drop
-
 The pressure-drop monitor reaches a stable value after the initial
 transient numerical adjustment.
 
