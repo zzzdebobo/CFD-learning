@@ -148,12 +148,12 @@ The pressure drop along the pipe is approximately 1 kPa.
 
 ### Residuals
 
-![Residuals](residuals.png)
+![Residuals](./residuals.png)
 
 ### Pressure Drop
 
-![pressure drop](pressure_drop.png)
+![Pressure Drop](./pressure_drop.png)
 
 ### Velocity Contour
 
-![velocity Contour](velocity_contour.png)
+![Velocity Contour](./velocity_contour.png)
